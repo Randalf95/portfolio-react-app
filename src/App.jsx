@@ -1,8 +1,9 @@
+import Navbar from "./components/Navbar";
+
 export default function App() {
   return (
     <div>
-      
-      <h1 className="text-2xl font-bold">Hola Mundo!</h1>
+      <Navbar/>
     </div>
   );
 }
