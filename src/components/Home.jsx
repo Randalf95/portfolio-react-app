@@ -32,7 +32,7 @@ const Home = () => {
         </div>
       </div>
     </div>
-  );////
+  );//////
 };
 //
 export default Home;
