@@ -119,7 +119,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
           <a
     className="flex justify-between items-center w-full text-gray-300"
-    href="https://drive.google.com/file/d/1yOTDwvwMp_1qHTeTrs2VuK-EWorSFhTF/view?usp=drive_link" // Reemplaza "ruta-a-tu-curriculum.pdf" con la ruta a tu archivo de currículum
+    href="https://drive.google.com/drive/u/1/folders/1kVHdJuiqWwW8aSUkX1J-uxIyu1vGSL-o" // Reemplaza "ruta-a-tu-curriculum.pdf" con la ruta a tu archivo de currículum
     target="_blank" // Abre el currículum en una nueva pestaña
     rel="noopener noreferrer" // Configuración de seguridad recomendada para enlaces externos
   >
