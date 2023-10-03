@@ -1,4 +1,3 @@
-import React from "react";
 import videogames from "../assets/projects/videogames.png";
 import fromZero from "../assets/projects/fromzero.png";
 import vibi from "../assets/projects/vibi-image.png"
