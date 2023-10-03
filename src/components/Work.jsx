@@ -63,9 +63,9 @@ const Work = () => {
           </div>
           
           <div
-  style={{ backgroundImage: `url(${fromZero})`, marginBottom: '40px' }}
-  className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
->
+            style={{ backgroundImage: `url(${fromZero})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
