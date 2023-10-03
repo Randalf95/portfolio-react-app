@@ -18,7 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>
-           
+            I have experience in developing web projects using technologies such as JavaScript, TypeScript, Python, NodeJS, Express, PostgreSQL, SQL, Prisma, Sequelize, React, Redux, and NextJS. My background as a finance student at the University of San Andrés has provided me with a platform to approach challenges strategically and analytically. I´m proactive and results-oriented and currently looking for new excitement challenges!
             </p>
           </div>
         </div>
