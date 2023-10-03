@@ -18,7 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>
-            Hi! I´m a Full Stack Developer with C2 Proficient level of English. I graduated as a Full-stack web developer from Soy Henry. Experienced in developing web projects using technologies such as JavaScript, TypeScript, Python, NodeJS, Express, PostgreSQL, SQL, Prisma, Sequelize, React, Redux, and NextJS. My background as a finance student at the University of San Andrés has provided me with a platform to approach challenges strategically and analytically. I´m proactive and results-oriented and currently looking for new excitement challenges!
+           
             </p>
           </div>
         </div>
