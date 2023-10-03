@@ -18,15 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              I´m a Full Stack Web Developer with experience in developing web
-              projects using technologies such as JavaScript, React, Redux,
-              Node, Express, PostgreSQL, SQL, and Sequelize. Background in
-              finance as a student at the Universidad de San Andrés. Extensive
-              musical training as a guitarist and singer, with notable
-              participation in the Cuerdos Vocales ensemble. Strategic and
-              analytical thinker. English proficiency level: C2 Proficient.
-              Seeking opportunities to apply my passion for programming and
-              problem-solving skills in a collaborative environment.
+            Hi! I´m a Full Stack Developer with C2 Proficient level of English. I graduated as a Full-stack web developer from Soy Henry. Experienced in developing web projects using technologies such as JavaScript, TypeScript, Python, NodeJS, Express, PostgreSQL, SQL, Prisma, Sequelize, React, Redux, and NextJS. My background as a finance student at the University of San Andrés has provided me with a platform to approach challenges strategically and analytically. I´m proactive and results-oriented and currently looking for new excitement challenges!
             </p>
           </div>
         </div>
