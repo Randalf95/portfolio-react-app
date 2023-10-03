@@ -11,9 +11,9 @@ export default function App() {
       <Navbar/>
       <Home/>
       <About />
-      <Skills style={{ marginBottom: "20px" }} /> {/* Añade margen inferior a Skills */}
-      <Work style={{ marginBottom: "20px" }} /> {/* Añade margen inferior a Work */}
-      <Contact style={{ marginBottom: "20px" }} /> {/* Añade margen inferior a Contact */}
+      <Skills style={{ marginBottom: "100px" }} /> {/* Añade margen inferior a Skills */}
+      <Work style={{ marginBottom: "100px" }} /> {/* Añade margen inferior a Work */}
+      <Contact style={{ marginBottom: "100px" }} /> {/* Añade margen inferior a Contact */}
     </div>
   );
 }
