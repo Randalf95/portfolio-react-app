@@ -88,7 +88,6 @@ const Work = () => {
           </div>
         </div>
       </div>
-      <div className="h-200"></div> {/* Agregar margen inferior para separar de Contact */}
     </div>
   );
 };
