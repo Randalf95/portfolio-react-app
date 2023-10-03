@@ -1,12 +1,14 @@
+import React from "react";
 import videogames from "../assets/projects/videogames.png";
 import fromZero from "../assets/projects/fromzero.png";
 import vibi from "../assets/projects/vibi-image.png"
+
 const Work = () => {
   return (
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 text-gray-300  border-pink-600 ">
+          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
             Work
           </p>
           <p className="py-6"> Check out some of my recent work</p>
@@ -87,8 +89,9 @@ const Work = () => {
           </div>
         </div>
       </div>
+      <div className="h-20"></div> {/* Agregar margen inferior para separar de Contact */}
     </div>
   );
 };
-////
+
 export default Work;
